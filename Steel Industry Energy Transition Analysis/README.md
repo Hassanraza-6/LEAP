@@ -75,7 +75,7 @@ This chart shows how energy demand shifts over time between primary (Blast Furna
 ### 🔸 Blast Furnace vs DRI Energy Consumption
 This visualization captures the gradual replacement of traditional blast furnaces by DRI (Direct Reduced Iron) systems starting in 2025:
 
-![Blast Furnace vs DRI]([3b41e5a8-945e-407a-afb9-25db026b9a5d.png](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Blast%20Furnace%20vs%20DRI.png)
+![Blast Furnace vs DRI](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Blast%20Furnace%20vs%20DRI.png)
 
 ---
 
