@@ -5,16 +5,16 @@ This repository presents an energy modeling case study of the steel industry usi
 ---
 
 ## 📚 Table of Contents
-- [Project Title](#project-title)
-- [Brief Summary](#brief-summary)
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Scenario Description](#scenario-description)
-- [Data Overview](#data-overview)
-- [Tools and Technologies](#tools-and-technologies)
-- [Model Outputs](#model-outputs)
-- [Key Observations](#key-observations)
-- [Conclusion](#conclusion)
+- [🏷 Project Title](#-project-title)
+- [✍️ Brief Summary](#️-brief-summary)
+- [📌 Overview](#-overview)
+- [❗ Problem Statement](#-problem-statement)
+- [🧾 Scenario Description](#-scenario-description)
+- [📊 Data Overview](#-data-overview)
+- [🛠 Tools and Technologies](#-tools-and-technologies)
+- [📈 Model Outputs](#-model-outputs)
+- [📌 Key Observations](#-key-observations)
+- [✅ Conclusion](#-conclusion)
 
 ---
 
@@ -68,7 +68,7 @@ The steel industry is a major energy consumer and CO₂ emitter. Transitioning f
 ### 🔸 Total Final Energy Demand by Production Type
 This chart shows how energy demand shifts over time between primary (Blast Furnace + DRI) and secondary (EAF) production:
 
-![Primary vs Secondary Energy](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Primary%20vs%20Secondary%20Production.png))
+![Primary vs Secondary Energy](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Primary%20vs%20Secondary%20Production.png)
 
 ---
 
@@ -82,7 +82,7 @@ This visualization captures the gradual replacement of traditional blast furnace
 ### 🔸 Electric Arc Furnace Energy Demand (Secondary Production)
 Electricity demand in EAF shows stable but efficient consumption patterns over the years:
 
-![Electric Arc Furnace]((https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Secondary%20Production-%20Electric%20Arc%20Furnace.png))
+![Electric Arc Furnace](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Secondary%20Production-%20Electric%20Arc%20Furnace.png)
 
 ---
 
@@ -96,6 +96,3 @@ Electricity demand in EAF shows stable but efficient consumption patterns over t
 
 ## ✅ Conclusion
 The LEAP-based analysis illustrates how sector-wide energy shifts, particularly the integration of hydrogen and increased EAF share, can reduce final energy demand in the steel industry by 2050. This project supports deeper analysis for low-carbon industrial transition planning.
-
----
-
