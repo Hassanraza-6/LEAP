@@ -68,7 +68,7 @@ The steel industry is a major energy consumer and CO₂ emitter. Transitioning f
 ### 🔸 Total Final Energy Demand by Production Type
 This chart shows how energy demand shifts over time between primary (Blast Furnace + DRI) and secondary (EAF) production:
 
-![Primary vs Secondary Energy](04445249-63c5-4348-96de-426410c9a1d3.png)
+![Primary vs Secondary Energy](https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Primary%20vs%20Secondary%20Production.png))
 
 ---
 
