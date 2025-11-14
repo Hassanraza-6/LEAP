@@ -82,7 +82,7 @@ This visualization captures the gradual replacement of traditional blast furnace
 ### 🔸 Electric Arc Furnace Energy Demand (Secondary Production)
 Electricity demand in EAF shows stable but efficient consumption patterns over the years:
 
-![Electric Arc Furnace](1b335a0a-4e1b-4e5f-b29c-c4dfdd8e3125.png)
+![Electric Arc Furnace]((https://github.com/Hassanraza-6/LEAP/blob/main/Steel%20Industry%20Energy%20Transition%20Analysis/Secondary%20Production-%20Electric%20Arc%20Furnace.png))
 
 ---
 
